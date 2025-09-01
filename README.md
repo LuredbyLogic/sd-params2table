@@ -22,7 +22,7 @@ This utility provides a seamless way to transform the semi-structured text outpu
 ## 🌟 Features
 
 *   **⚡ One-Click Execution:** Double-click a batch file to start the conversion process.
-*   **📁 Drag-and-Drop Input:** Easily provide your Gen7 `.txt` source file by dragging it directly onto the command prompt window.
+*   **📁 Drag-and-Drop Input:** Easily provide your `params.txt` source file by dragging it directly onto the command prompt window.
 *   **📊 Clean CSV Output:** Transforms unformatted lines and comma-separated values into a simple two-column `Header | Value` structure.
 *   **🖥️ Desktop Output:** Automatically saves the converted `.csv` file to your Desktop.
 *   **⏰ Dynamic Filenaming:** Output files are named uniquely with the format `parameter-export-YYYY-MM-DD-timeinseconds.csv`, preventing overwrites and providing a clear timestamp.
