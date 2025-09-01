@@ -50,7 +50,7 @@ with open(input_filename, 'r') as f:
 
 # Rule for Line 1
 if len(lines) > 0:
-    processed_data.append(["Line 1 Text", lines[0].strip()])
+    processed_data.append(["Positive prompt", lines[0].strip()])
 
 # Rule for Line 2
 if len(lines) > 1:
