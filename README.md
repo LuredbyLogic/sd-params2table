@@ -5,7 +5,7 @@
     Example: <p align="center"><img src="path/to/your/logo.png" alt="Your Logo" width="200"></p> 
 -->
 <p align="center">
-  <img width="2048" height="2048" alt="params2table" src="https://github.com/user-attachments/assets/1ebd79c2-b393-49ed-b95b-34b2fb365c6e" />
+<img width="540" height="480" alt="2025-09-01_09-53-50 (Small)" src="https://github.com/user-attachments/assets/38b3c1a7-b409-4cff-bb09-f5bb75c12cea" />
 </p>
 
 ---
